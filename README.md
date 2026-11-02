@@ -7,7 +7,7 @@
 <br>
  - HTML
  - CSS
- - Git/GitHub
+ 
  <br>
  <h2>Uma amostra do site:</h2>
  <img width="1078" height="637" alt="image" src="https://github.com/user-attachments/assets/cbdeeb30-851a-490a-bdd8-5adeca2321f6" />
